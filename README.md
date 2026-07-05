@@ -41,7 +41,6 @@ Technical and operational experience supporting Mongolian esports broadcasts, li
 
 ## Links
 
-- Personal website: https://erga.dev
 - LinkedIn: https://www.linkedin.com/in/ext2a/
 - Public repositories: https://github.com/ext2a?tab=repositories
 
