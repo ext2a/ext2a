@@ -1,47 +1,50 @@
-
 # Erdenegarid Ariunbold
 
-Full-stack engineer and systems builder based in Ulaanbaatar, Mongolia.
+Full-stack engineer and technical lead based in Ulaanbaatar, Mongolia.
 
-I build reliable platforms, internal tools, event technology, and operational software across frontend, backend, infrastructure, and production delivery.
+I build production systems, operational software, and event technology across backend, frontend, infrastructure, deployment, and production operations.
 
-## What I work on
+My work tends to sit where software stops being a demo and starts having consequences: payments, migrations, reliability, recovery, internal tooling, and systems people actually depend on.
 
-- Full-stack product engineering
-- Platform stabilisation
-- Internal and operational tools
-- Event and race technology
-- Media and esports infrastructure
-- Deployment, migrations, diagnostics, and failure recovery
-- AI-assisted engineering workflows
+## What I build
+
+- Production-grade full-stack applications
+- Payments and operational workflows
+- Internal tools and platform infrastructure
+- Event, race, and media technology
+- Deployment, migrations, diagnostics, and recovery
 
 ## Selected work
-
-Detailed case studies live on my personal website. Public repositories here are mostly older demos and experiments — the site is the main record of recent engineering work.
 
 ### Race Photo Marketplace
 
 A production-oriented platform connecting photo ingestion, image processing, bib-number recognition, participant search, payment verification, administrative correction, recovery tooling, and secure delivery.
 
-### Platform Stabilisation
+### Production Systems & Platform Work
 
-Work across production deployment, database migrations, registration flows, multilingual interfaces, shared frontend components, backend utilities, and operational workflows.
+Engineering across payment integrations, authentication, permissions, inventory rules, background workers, deployment tooling, database migrations, reconciliation, monitoring, and operational recovery.
 
-### Esports Broadcast Infrastructure
+A large part of my work is not just shipping features, but making systems predictable when something inevitably goes wrong.
 
-Technical and operational experience supporting Mongolian esports broadcasts, live events, tournament coverage, production coordination, and community infrastructure.
+## EG Studio
+
+From 2019 to 2023, I helped build **EG Studio**, a Mongolian esports broadcasting project focused primarily on Dota 2.
+
+My work extended beyond broadcasting into management, external relations, production coordination, tournament coverage, technical operations, and community infrastructure.
+
+That experience shaped how I think about engineering today: technology matters, but execution, communication, operations, and the people around the system matter just as much.
 
 ## Current focus
 
 - Reliable full-stack delivery
-- Platform engineering
 - Technical leadership
+- Platform and production engineering
 - Event technology
-- Systems that remain understandable under operational pressure
+- Systems that are simple enough to operate under pressure
 
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/ext2a/
-- Public repositories: https://github.com/ext2a?tab=repositories
+- GitHub: https://github.com/ext2a
 
 > Project in Progress. I build systems everywhere I go.
